@@ -1,0 +1,22 @@
+.hero {
+    padding-top: 200px;
+    padding-bottom: 280px;
+    background-color:var(--color-darkblue);
+    text-align: center;
+
+    &__title {
+    margin-top: 0;
+    margin-bottom: 30px;
+    width: 696px;
+    margin-left: auto;
+    margin-right: auto;
+    
+   color: var(--color-white);
+   text-transform: uppercase;
+   font-weight: 900;
+   font-size: 44px;
+   line-height: 1.36;
+   letter-spacing: 0.06em;
+}
+
+}
